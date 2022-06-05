@@ -74,4 +74,5 @@ print(df.at[dates[0], "A"])
 print(df)
 print(df.iloc[3])
 print(df.iloc[3:5, 0:2])
+print(df.iloc[[1, 2, 4], [0, 2]])
 
