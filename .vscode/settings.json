@@ -1,5 +1,0 @@
-{
-    "python.linting.enabled": true,
-    "python.formatting.provider": "black",
-    "python.pythonPath": "D:\\Program Files\\Python310\\python.exe"
-}
