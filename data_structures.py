@@ -53,3 +53,6 @@ print(df2.to_numpy())
 
 print(df.describe)
 print(df.T)
+
+print("Sorting by an axis:")
+print(df.sort_index(axis=1, ascending=False))
