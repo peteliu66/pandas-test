@@ -1,2 +1,3 @@
-import sys
-print(sys.version)
+import numpy as np
+import pandas as pd
+
