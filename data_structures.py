@@ -38,4 +38,12 @@ print(df2.dtypes)
 # df2.apply              df2.describe
 # df2.applymap           df2.diff
 # df2.B                  df2.duplicated
-print(df2.abs)
+# print(df2.shape)
+
+print(df.head)
+
+print(df.tail(3))
+
+print(df.index)
+
+print(df.columns)
