@@ -70,3 +70,6 @@ print(df.loc["20130102",["A","B"]])
 
 print(df.loc[dates[0],"A"])
 print(df.at[dates[0],"A"])
+
+print(df)
+print(df.iloc[3])
