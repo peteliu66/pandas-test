@@ -50,3 +50,6 @@ print(df.columns)
 
 print(df.to_numpy())
 print(df2.to_numpy())
+
+print(df.describe)
+print(df.T)
