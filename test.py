@@ -1,4 +1,5 @@
-import sys
-import getopt
+import os
 
-opts, args = getopt.getopt(sys.argv,"?hH")
+print("PYTHONPATH:", os.environ.get("PYTHONPATH"))
+print("PATH:", os.environ.get("PATH"))
+
