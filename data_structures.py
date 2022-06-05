@@ -59,6 +59,6 @@ print(df.sort_index(axis=1, ascending=False))
 print(df.sort_values(by="B"))
 
 print(df["A"])
-print(df[0:3])
+print(df[1:4])
 
 print(df["20130102":"20130104"])
