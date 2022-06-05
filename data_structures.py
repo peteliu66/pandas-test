@@ -47,3 +47,6 @@ print(df.tail(3))
 print(df.index)
 
 print(df.columns)
+
+print(df.to_numpy())
+print(df2.to_numpy())
