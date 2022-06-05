@@ -67,3 +67,5 @@ print(df.loc[dates[0]])
 print(df.loc[:, ["A", "B"]])
 
 print(df.loc["20130102",["A","B"]])
+
+print(df.loc[dates[0],"A"])
